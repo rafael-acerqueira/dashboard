@@ -59,7 +59,7 @@ export default function UserList() {
                 <Td>
                   <Box>
                     <Text fontWeight="bold">Rafael Aquino</Text>
-                    <Text fonSize="small" color="gray.300">contato@rafaelaquino.net</Text>
+                    <Text fontSize="small" color="gray.300">contato@rafaelaquino.net</Text>
                   </Box>
                 </Td>
                 <Td>23 de Fevereiro, 2022</Td>
